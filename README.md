@@ -13,7 +13,7 @@ Speed
 Generation	Legendary
 
 
-We are more into Attack and defend to create a precise clusters to group the similar to strongly co related pokemons in one group
+We are more into Attack and defend to create a precise clusters to group the similar or nearest pokemons in one group
 
 
 # Algorithm
