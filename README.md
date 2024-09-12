@@ -19,3 +19,5 @@ We are more into Attack and defend to create a precise clusters to group the sim
 # Algorithm
 Agglomerative clustering (Murtagh & Legendre, 2014) is a hierarchical algorithm that uses a bottom-up approach. Each data point is initially considered a “cluster.” The algorithm proceeds by successively merging clusters using a selected linkage criterion
 
+Here the video explanation of the above code,
+https://1drv.ms/v/c/46e17f20539c6739/EXGVaIW_chNFiiN4WQgfUCUBCvADMXJmo_gbzGa7lp4cAA?e=POaup9
